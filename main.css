@@ -1,0 +1,75 @@
+/* styles.css */
+
+body {
+    background: url("https://www.publicdomainpictures.net/pictures/40000/velka/grass-1367783855puQ.jpg");
+    background-repeat:no-repeat; 
+    background-size:auto;
+    color: red;
+}
+header{
+    background: cornsilk;
+    border: 4px solid red;
+    padding: 5px;
+    margin: 5px;
+}
+section {
+    padding:30px; 
+    margin: 20px; 
+    background: cornsilk;
+    text-align: center;
+    border: 4px solid red;
+}
+h1 {
+    text-align:center;
+    font-size: 36pt;
+    background: cornsilk;
+}
+h2 {
+    font-size: 26pt;
+}
+h3{
+    font-size: 20pt;
+}
+nav {
+    text-align:center;
+    background: cornsilk;
+}
+button {
+    background: cornsilk;
+    border: 4px solid red;
+    font-size: 16pt;
+    margin: 5px;
+    padding: 5px;
+}
+button:hover {
+    background: tan;
+    border: 4px solid maroon;
+    color:red;
+}
+p {
+    font-size:14pt; 
+    font-family:Arial; 
+    background: cornsilk;
+}
+img {
+    margin:2px; 
+    border: 6px solid red;
+}
+.outImg:hover {
+    border: 6px solid maroon;
+}
+.column {
+    float:left;
+    width:46%;
+    text-align:center;
+    margin:10px 10px;
+    padding:1%;
+    height: 550px;
+    background: cornsilk;
+    border: 4px solid red;
+}
+.petting {
+    float: right;
+    clear: both;
+    margin:20px;
+}
